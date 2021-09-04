@@ -22,7 +22,7 @@ Database:
 Contact me:
   - Facebook: [Thien Nhan](https://www.facebook.com/LeDoanThienNhan/)
   - LinkedIn: [Thien Nhan](https://www.linkedin.com/in/ledoanthiennhan/)
-  - Gmail: 19520197@gm.uit.edu.vn
+  - Gmail: 19520197@gm.uit.edu.vn or thnhanlee@gmail.com
 
 
 
