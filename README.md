@@ -1,4 +1,16 @@
 ### Hi there 👋
+My name is Le Doan Thien Nhan.
+
+I currently study Computer Science at [University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
+
+Algorithm holic.
+
+Contact me:
+  - Facebook: [Thiện Nhân](https://www.facebook.com/LeDoanThienNhan/)
+  - Gmail: 19520197@gm.uit.edu.vn
+
+
+
 
 <!--
 **thiennhan2701/thiennhan2701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
