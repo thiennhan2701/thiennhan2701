@@ -6,9 +6,9 @@ I currently study Computer Science at [University of Information Technology - Vi
 Algorithm holic.
 
 Contact me:
-  - Facebook: [Thiện Nhân](https://www.facebook.com/LeDoanThienNhan/)
+  - Facebook: [Thien Nhan](https://www.facebook.com/LeDoanThienNhan/)
+  - LinkedIn: [Thien Nhan](https://www.linkedin.com/in/ledoanthiennhan/)
   - Gmail: 19520197@gm.uit.edu.vn
-
 
 
 
