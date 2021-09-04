@@ -5,6 +5,20 @@ I currently study Computer Science at [University of Information Technology - Vi
 
 Algorithm holic.
 
+OS:
+  - Window
+  - Linux
+
+Programming languages: 
+  - Python3
+  - C++
+  - C
+
+Database:
+  - SQL
+  - SQLite
+  - MongoDB
+  
 Contact me:
   - Facebook: [Thien Nhan](https://www.facebook.com/LeDoanThienNhan/)
   - LinkedIn: [Thien Nhan](https://www.linkedin.com/in/ledoanthiennhan/)
