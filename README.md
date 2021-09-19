@@ -11,12 +11,12 @@ OS:
 
 Programming languages: 
   - Python3
-  - C++
-  - C
+  - C/C++
 
 Database:
   - SQL
   - SQLite
+  - MSSQL
   - MongoDB
   
 Contact me:
