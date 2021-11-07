@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Le Doan Thien Nhan.
 
-I currently study Computer Science at [University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
+I am currently studying Computer Science at [University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
 
 Algorithm holic.
 
