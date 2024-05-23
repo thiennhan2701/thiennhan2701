@@ -1,8 +1,5 @@
 ### Hi there 👋
 My name is Le Doan Thien Nhan.
-
-I am currently studying Computer Science at [University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
-
 Algorithm holic.
 
 OS:
@@ -19,13 +16,10 @@ Database:
   - MSSQL
   - MongoDB
   
-Contact me:
+Contact:
   - Facebook: [Thien Nhan](https://www.facebook.com/LeDoanThienNhan/)
   - LinkedIn: [Thien Nhan](https://www.linkedin.com/in/ledoanthiennhan/)
   - Gmail: 19520197@gm.uit.edu.vn or thnhanlee@gmail.com
-
-
-
 <!--
 **thiennhan2701/thiennhan2701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
